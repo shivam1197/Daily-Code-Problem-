@@ -10,6 +10,8 @@ For example, given array = [10, 5, 2, 7, 8, 7] and k = 3, we should get: [10, 7,
 Do this in O(n) time and O(k) space. You can modify the input array in-place and you do not need to store the results. You can simply print them out as you compute them.
 """
 
+# This problem was asked by Google.
+
 
 from collections import deque
 
